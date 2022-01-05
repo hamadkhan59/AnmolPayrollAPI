@@ -1,0 +1,156 @@
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\SMSApi.dll.config
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\SMSApi.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\SMSApi.pdb
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Antlr3.Runtime.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\EntityFramework.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.Edm.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.OData.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Web.Infrastructure.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Newtonsoft.Json.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\SMS_DAL.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Net.Http.Formatting.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Spatial.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Helpers.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.OData.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.Tracing.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.WebHost.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Mvc.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Optimization.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Providers.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Razor.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Deployment.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Razor.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\WebGrease.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\SMS_DAL.pdb
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\EntityFramework.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Newtonsoft.Json.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Net.Http.Formatting.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Helpers.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.WebHost.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Mvc.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Razor.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Deployment.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Razor.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.Tracing.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.OData.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.Edm.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.OData.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\System.Spatial.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\de\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\es\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\it\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\de\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\es\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\fr\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\it\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ja\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ko\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\ru\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\zh-Hans\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\obj\Release\SMSApi.csprojResolveAssemblyReference.cache
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\obj\Release\SMSApi.dll
+D:\sms web\SMS_Web07162019\SMS_Web11022018 - Branches Version\SMS Api\SMSApi\SMSApi\obj\Release\SMSApi.pdb
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\SMSApi.dll.config
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\SMSApi.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\SMSApi.pdb
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Antlr3.Runtime.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\EntityFramework.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.Edm.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.OData.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Newtonsoft.Json.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\SMS_DAL.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Net.Http.Formatting.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Spatial.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Helpers.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.OData.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.Tracing.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.WebHost.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Mvc.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Optimization.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Providers.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Razor.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Deployment.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Razor.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\WebGrease.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Logger.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\SMS_DAL.pdb
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\EntityFramework.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Newtonsoft.Json.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Net.Http.Formatting.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Helpers.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.WebHost.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Mvc.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Razor.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Deployment.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.WebPages.Razor.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.Tracing.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Web.Http.OData.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.Edm.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Data.OData.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\System.Spatial.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Logger.pdb
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\de\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\es\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\it\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\de\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\es\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\fr\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\it\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ja\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ko\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\ru\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\zh-Hans\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\obj\Release\SMSApi.csprojResolveAssemblyReference.cache
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\obj\Release\SMSApi.dll
+D:\Onical\Payroll System\Code\SMS Api\SMSApi\SMSApi\obj\Release\SMSApi.pdb
