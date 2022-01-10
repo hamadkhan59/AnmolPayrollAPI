@@ -295,7 +295,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SMS_Web\SMS_DAL\SMS_DAL.csproj">
+    <ProjectReference Include="..\..\sms_web_master\SMS_DAL\SMS_DAL.csproj">
       <Project>{9e25d190-26a1-4865-bab9-ccbbfa75287c}</Project>
       <Name>SMS_DAL</Name>
     </ProjectReference>
